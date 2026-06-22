@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TPF7cwe1bA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Downloads\\BringBugBabiesBack\\GTModTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
